@@ -1,0 +1,126 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-sport",
+        "name": "BBC Sport"
+      },
+      "author": "BBC Sport",
+      "title": "Commonwealth Games: England's Ben Proud claims gold as Andrew Pozzi struggles",
+      "description": "England's Ben Proud defends his 50m freestyle swimming title as compatriot Andrew Pozzi falters in the 110m hurdles",
+      "url": "http://www.bbc.co.uk/sport/commonwealth-games/43710507",
+      "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/20E2/production/_100781480_gettyimages-944116778.jpg",
+      "publishedAt": "2018-04-10T10:50:59Z"
+    },
+    {
+      "source": {
+        "id": "bbc-sport",
+        "name": "BBC Sport"
+      },
+      "author": "BBC Sport",
+      "title": "Commonwealth Games: England's Andrew Pozzi falters in 110m hurdles final",
+      "description": "England's Andrew Pozzi falters in the men's 110m hurdles final, finishing sixth with Jamaican pair Ronald Levy and Hansle Parchment winning gold and silver.",
+      "url": "http://www.bbc.co.uk/sport/commonwealth-games/43712540",
+      "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/17D1/production/_100779060_p063vbfd.jpg",
+      "publishedAt": "2018-04-10T10:50:59Z"
+    },
+    {
+      "source": {
+        "id": "bbc-sport",
+        "name": "BBC Sport"
+      },
+      "author": "BBC Sport",
+      "title": "Watch: Canada v England basketball, boxing, athletics &amp; swimming",
+      "description": "",
+      "url": "http://www.bbc.co.uk/sport/live-guide",
+      "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-sport-opengraph/1.1.1/images/bbc-sport-logo.png",
+      "publishedAt": "2018-04-10T07:30:07.1231124Z"
+    },
+    {
+      "source": {
+        "id": "bbc-sport",
+        "name": "BBC Sport"
+      },
+      "author": "BBC Sport",
+      "title": "Commonwealth Games: Wales' Anna Hursey, 11, shines on individual debut",
+      "description": "Wales' Anna Hursey, 11, claims victory against Uganda's Halima Nambozo in her first match in the women's singles table tennis event.",
+      "url": "http://www.bbc.co.uk/sport/commonwealth-games/43712537",
+      "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/15188/production/_100780468_p063v7b8.jpg",
+      "publishedAt": "2018-04-10T07:03:09Z"
+    },
+    {
+      "source": {
+        "id": "bbc-sport",
+        "name": "BBC Sport"
+      },
+      "author": "BBC Sport",
+      "title": "Commonwealth Games: England's Luckman and Patel win Queen's prize gold",
+      "description": "England pair David Luckman and Parag Patel defend Queen's prize title, Wales win silver and Scotland take bronze.",
+      "url": "http://www.bbc.co.uk/sport/commonwealth-games/43707485",
+      "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/11FC3/production/_100776637_hi046074735.jpg",
+      "publishedAt": "2018-04-10T03:08:01Z"
+    },
+    {
+      "source": {
+        "id": "bbc-sport",
+        "name": "BBC Sport"
+      },
+      "author": "BBC Sport",
+      "title": "Commonwealth Games: Wales' David Phelps wins 50m rifle prone gold for Wales",
+      "description": "Wales' David Phelps wins 50m rifle prone gold with a Games record score, as Scotland's Neil Stirton takes silver and Kenneth Parr picks up bronze for England.",
+      "url": "http://www.bbc.co.uk/sport/commonwealth-games/43708294",
+      "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/14F61/production/_100775858_p063tq84.jpg",
+      "publishedAt": "2018-04-10T02:52:59Z"
+    },
+    {
+      "source": {
+        "id": "bbc-sport",
+        "name": "BBC Sport"
+      },
+      "author": "BBC Sport",
+      "title": "Watch Commonwealth Games: Day six action from the Gold Coast",
+      "description": "Watch BBC TV coverage, in-play clips and follow text updates on day six from the Commonwealth Games on the Gold Coast.",
+      "url": "http://www.bbc.co.uk/sport/live/commonwealth-games/43376891",
+      "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-sport-opengraph/1.1.1/images/bbc-sport-logo.png",
+      "publishedAt": "2018-04-09T23:15:20Z"
+    },
+    {
+      "source": {
+        "id": "bbc-sport",
+        "name": "BBC Sport"
+      },
+      "author": "BBC Sport",
+      "title": "Commonwealth Games: Scotland lose to Malawi in thrilling finale",
+      "description": "Scotland's Bethan Goodwin misses a chance to draw her side level after failing to convert the final penalty of the match as Malawi take a hard-fought 51-50 win in the netball.",
+      "url": "http://www.bbc.co.uk/sport/commonwealth-games/43708902",
+      "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/104D9/production/_100777766_p063tvcm.jpg",
+      "publishedAt": "2018-04-09T20:27:07Z"
+    },
+    {
+      "source": {
+        "id": "bbc-sport",
+        "name": "BBC Sport"
+      },
+      "author": "BBC Sport",
+      "title": "Australia ball-tampering: 'Nonsense' only three players knew - Andrew Flintoff",
+      "description": "It is \"absolute nonsense\" that only three Australia players knew about the ball-tampering scandal, says ex-England captain Andrew Flintoff.",
+      "url": "http://www.bbc.co.uk/sport/cricket/43706190",
+      "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/949F/production/_100774083_smith.jpg",
+      "publishedAt": "2018-04-09T20:27:07Z"
+    },
+    {
+      "source": {
+        "id": "bbc-sport",
+        "name": "BBC Sport"
+      },
+      "author": "BBC Sport",
+      "title": "Man City v Liverpool: Pep Guardiola's team will have shackles off - Jermaine Jenas",
+      "description": "Can Man City overturn their 3-0 first-leg defeat? An early goal could be crucial, says MOTD pundit Jermaine Jenas",
+      "url": "http://www.bbc.co.uk/sport/football/43693091",
+      "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/8B7B/production/_100770753_hi045310799.jpg",
+      "publishedAt": "2018-04-09T16:03:03Z"
+    }
+  ]
+}

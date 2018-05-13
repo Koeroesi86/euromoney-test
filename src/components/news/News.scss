@@ -1,0 +1,59 @@
+@import "../../configurations/branding";
+
+.News {
+  &-item {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+    color: $text-color;
+    transition: .2s ease-in-out background-color, .2s ease-in-out color;
+
+    &:hover {
+      text-decoration: none;
+      background: #efefef;
+    }
+
+    &-image {
+      width: 200px;
+      flex-shrink: 0;
+
+      &-thumbnail {
+        height: 100px;
+      }
+    }
+
+    &-text-contents {
+      padding: 0 12px;
+      flex-grow: 1;
+      box-sizing: border-box;
+    }
+
+    &-title {
+      line-height: 18px;
+      text-transform: uppercase;
+      font-weight: 600;
+      margin: 6px 0;
+    }
+
+    &-meta {
+      opacity: 0.8;
+      line-height: 14px;
+      font-size: 12px;
+      margin-bottom: 12px;
+      overflow: hidden;
+
+      &-author {
+        white-space: nowrap;
+      }
+
+      &-published {
+        margin-left: 6px;
+        white-space: nowrap;
+      }
+    }
+
+    &-description {
+      padding-bottom: 12px;
+    }
+  }
+}

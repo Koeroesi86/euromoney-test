@@ -1,0 +1,69 @@
+@import "../../configurations/branding";
+
+.NewsResponsive {
+  &-item {
+    display: block;
+    margin-bottom: 20px;
+    color: $text-color;
+    transition: .2s ease-in-out background-color, .2s ease-in-out color;
+
+    &:hover {
+      text-decoration: none;
+      background: #efefef;
+    }
+
+    &-image {
+      width: 100%;
+      height: 200px;
+      background-size: cover;
+      background: url("https://picsum.photos/g/710/200") no-repeat center center;
+    }
+
+    &-text-contents {
+      padding: 0 6px;
+    }
+
+    &-title {
+      line-height: 18px;
+      text-transform: uppercase;
+      font-weight: 600;
+      margin: 6px 0;
+    }
+
+    &-meta {
+      opacity: 0.8;
+      line-height: 14px;
+      font-size: 12px;
+      margin-bottom: 12px;
+      overflow: hidden;
+
+      &-author {
+        white-space: nowrap;
+      }
+
+      &-published {
+        margin-left: 6px;
+        white-space: nowrap;
+      }
+    }
+
+    &-description {
+      padding-bottom: 12px;
+    }
+  }
+}
+
+@media (min-width: 768px) {
+  .col-sm-6:nth-child(2n) {
+    clear: right;
+  }
+}
+
+@media (min-width: 992px) {
+  .col-sm-6:nth-child(2n) {
+    clear: none;
+  }
+  .col-md-3:nth-child(4n + 1) {
+    clear: left;
+  }
+}
